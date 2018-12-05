@@ -30,6 +30,7 @@ Please refer to the [CHANGELOG](CHANGELOG.md) for features, bug fixes, and any u
 MIT License
 
 [![Build Status](https://travis-ci.org/commanded/commanded.svg?branch=master)](https://travis-ci.org/commanded/commanded) [![Join the chat at https://gitter.im/commanded/Lobby](https://badges.gitter.im/commanded/Lobby.svg)](https://gitter.im/commanded/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FYamilquery%2Fcommanded.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FYamilquery%2Fcommanded?ref=badge_shield)
 
 ---
 
@@ -135,3 +136,7 @@ You should include unit tests to cover any changes. Run `mix test` to execute th
 Please [open an issue](https://github.com/commanded/commanded/issues) if you encounter a problem, or need assistance. You can also seek help in the [Gitter chat room](https://gitter.im/commanded/Lobby) for Commanded.
 
 For commercial support, and consultancy, please contact [Ben Smith](mailto:ben@10consulting.com).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FYamilquery%2Fcommanded.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FYamilquery%2Fcommanded?ref=badge_large)
